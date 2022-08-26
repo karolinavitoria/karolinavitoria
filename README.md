@@ -1,5 +1,5 @@
 # 👋 Oi, sou Karolina
-## estou intereaprender computacao    
+## estou interrressada em computacao    
 ###  estou aprender computacao        
 ##### chegue ate mim seguindo minhas redes sociais 
 ##
