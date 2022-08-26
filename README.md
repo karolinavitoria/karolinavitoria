@@ -1,7 +1,7 @@
 # 👋 Oi, sou Karolina
-##  aprendercomputacao    
-###  estou aprende  computacao        
-##### seguindo minhas redes sociais 
+##  aprender computacao    
+###  estou aprender computacao        
+##### chegue ate mim seguindo minhas redes sociais 
 ##
 <!---
 karolinavitoria/karolinavitoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
